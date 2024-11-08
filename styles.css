@@ -206,4 +206,6 @@
   .project-item a:hover {
     background-color: #45a049;
   }
-    
+.project-item img{
+  width: 80%;
+}    
